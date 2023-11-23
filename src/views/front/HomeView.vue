@@ -134,7 +134,7 @@ a {
 .A-img {
   width: 100%;
   height: 700px;
-  background-image: url("src/assets/1.png");
+  background-image: url("https://images.pexels.com/photos/3885493/pexels-photo-3885493.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
   background-position: center;
   background-size: cover;
   display: flex;
